@@ -13,6 +13,6 @@ Drawing Polyline from database data point
 <span>For using this, create database first. Install it from db.sql files</span>
 </div>
 <div itemscope itemtype="http://schema.org/Person">
-Creator : <span itemprop="name">Bambang Yudhotomo</span></dd>
-Email   : <a href="mailto:bambangyudhotomo@gmail.com" itemprop="email">bambangyudhotomo@gmail.com</span>
+<div>Creator : <span itemprop="name">Bambang Yudhotomo</span></div>
+<div>Email   : <a href="mailto:bambangyudhotomo@gmail.com" itemprop="email">bambangyudhotomo@gmail.com</span></div>
 </div>
